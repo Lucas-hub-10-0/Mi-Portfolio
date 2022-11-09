@@ -4,7 +4,8 @@ Este es un portfolio creado con HTML, CSS.
 ## Autor - 
 **Lucas Pereyra Diaz**
 
-- [LinkedIn] (https: //www.Linkedin.con/in/lucasPereyraDiazSD/)
+- [LinkedIn] (https: //www.linkedin.com/in/lucaspereyradiazsd
+)
 
 ## Ver ejemplo en vivo
 -[ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
